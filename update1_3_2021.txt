@@ -1,1 +1,3 @@
 Update: The first commit was a successssss! Hoping to learn more :)
+Edit : Apparently you can also add git push at the end instead of those 2 very long lines of code.. Trying that now :)
+Edit : Didn't work :(
