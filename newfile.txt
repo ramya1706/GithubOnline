@@ -1,1 +1,6 @@
 Hello World! And welcome to Github!
+This is Ramya Neelakantan and hopefully this will be my first commit... 
+If all goes well, that is.. 
+Future Ramya, if you see this and you're an expert at Github and Git, please don't make fun of yourself... 
+Have a blast! 
+Love, Ramya 2021 
